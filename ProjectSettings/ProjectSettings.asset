@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 25269f1d522f4444ea04d89501d00d49
+  productGUID: 0f0873322ce5725428fac8ce25c3fd96
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -629,11 +629,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 02ffebaa-22f1-4b2c-9087-2f129eeb111d
-  projectName: WagonAAAHHH
+  cloudProjectId: f83080c6-0680-4bad-bcec-1ccbc90e2ccf
+  projectName: WagonAAAHHH (1)
   organizationId: kakkamakama
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
